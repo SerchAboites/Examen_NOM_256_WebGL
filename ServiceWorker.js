@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-Examen_MIP-0.1";
+const cacheName = "DefaultCompany-Examen_NOM_256-0.1";
 const contentToCache = [
     "Build/Examen_NOM_256_WebGL.loader.js",
     "Build/Examen_NOM_256_WebGL.framework.js",
